@@ -39,7 +39,7 @@ This repository contains a **portfolio-grade MySQL relational database** that mo
 
 If included in this repo, the ERD can be found here:
 
-![ERD](docs/ERD.png)
+![ERD](ERD.png)
 
 ---
 
@@ -111,5 +111,6 @@ All names, addresses, phone numbers, and email addresses in the seed data are fi
 ## Author
 
 Ektor M. Gonzalez — Puerto Rico
+
 
 Created as a personal portfolio project to demonstrate SQL and relational database design skills using a realistic business scenario. This project focuses exclusively on the database layer.
