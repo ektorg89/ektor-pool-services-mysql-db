@@ -4,7 +4,7 @@
 
 This repository contains a **portfolio-grade MySQL relational database** that models the core operations of a pool maintenance business: customers, properties, pools, service visits, services performed, weekly invoicing, invoice line items, and payments. The focus of this project is **database design** (normalization, referential integrity, indexing, and business-driven modeling) — **no application/UI layer is included**.
 
-The schema is inspired by real operational workflows of a pool maintenance business.
+*Inspired by real operational workflows from my own business.*
 
 ---
 
@@ -116,4 +116,5 @@ Ektor M. Gonzalez — Puerto Rico
 
 
 Created as a personal portfolio project to demonstrate SQL and relational database design skills using a realistic business scenario. This project focuses exclusively on the database layer.
+
 
